@@ -1,0 +1,10 @@
+{
+  "id": 16,
+  "name": "Hewlett, Mrs. (Mary D Kingcome)",
+  "survived": true,
+  "sex": "female",
+  "age": 55,
+  "ticket": "248706",
+  "fare": 16,
+  "cabin": "None"
+}
