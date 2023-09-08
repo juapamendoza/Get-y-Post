@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Braund, Mr. Owen Harris",
+    "survived": false,
+    "sex": "male",
+    "age": 22,
+    "ticket": "A/5 21171",
+    "fare": 7.25,
+    "cabin": "None"
+  },
+  {
+    "id": 2,
+    "name": "Cumings, Mrs. John Bradley (Florence Briggs Thayer)",
+    "survived": true,
+    "sex": "female",
+    "age": 38,
+    "ticket": "PC 17599",
+    "fare": 71.2833,
+    "cabin": "C85"
+  },
+  {
+    "id": 3,
+    "name": "Heikkinen, Miss. Laina",
+    "survived": true,
+    "sex": "female",
+    "age": 26,
+    "ticket": "STON/O2. 3101282",
+    "fare": 7.925,
+    "cabin": "None"
+  },
+  {
+    "id": 4,
+    "name": "Futrelle, Mrs. Jacques Heath (Lily May Peel)",
+    "survived": true,
+    "sex": "female",
+    "age": 35,
+    "ticket": "113803",
+    "fare": 53.1,
+    "cabin": "C123"
+  },
+  {
+    "id": 5,
+    "name": "Allen, Mr. William Henry",
+    "survived": false,
+    "sex": "male",
+    "age": 35,
+    "ticket": "373450",
+    "fare": 8.05,
+    "cabin": "None"
+  },
+  {
+    "id": 6,
+    "name": "Moran, Mr. James",
+    "survived": false,
+    "sex": "male",
+    "age": 0,
+    "ticket": "330877",
+    "fare": 8.45583,
+    "cabin": "None"
+  },
+  {
+    "id": 7,
+    "name": "McCarthy, Mr. Timothy J",
+    "survived": false,
+    "sex": "male",
+    "age": 54,
+    "ticket": "17463",
+    "fare": 51.8625,
+    "cabin": "E46"
+  },
+  {
+    "id": 8,
+    "name": "Palsson, Master. Gosta Leonard",
+    "survived": false,
+    "sex": "male",
+    "age": 2,
+    "ticket": "349909",
+    "fare": 21.075,
+    "cabin": "None"
+  },
+  {
+    "id": 9,
+    "name": "Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",
+    "survived": true,
+    "sex": "female",
+    "age": 27,
+    "ticket": "347742",
+    "fare": 11.1333,
+    "cabin": "None"
+  },
+  {
+    "id": 10,
+    "name": "Nasser, Mrs. Nicholas (Adele Achem)",
+    "survived": true,
+    "sex": "female",
+    "age": 14,
+    "ticket": "237736",
+    "fare": 30.0708,
+    "cabin": "None"
+  },
+  {
+    "id": 11,
+    "name": "Sandstrom, Miss. Marguerite Rut",
+    "survived": true,
+    "sex": "female",
+    "age": 4,
+    "ticket": "PP 9549",
+    "fare": 16.7,
+    "cabin": "G6"
+  },
+  {
+    "id": 12,
+    "name": "Bonnell, Miss. Elizabeth",
+    "survived": true,
+    "sex": "female",
+    "age": 58,
+    "ticket": "113783",
+    "fare": 26.55,
+    "cabin": "C103"
+  },
+  {
+    "id": 13,
+    "name": "Saundercock, Mr. William Henry",
+    "survived": false,
+    "sex": "male",
+    "age": 20,
+    "ticket": "A/5. 2151",
+    "fare": 8.05,
+    "cabin": "None"
+  },
+  {
+    "id": 14,
+    "name": "\tAndersson, Mr. Anders Johan",
+    "survived": false,
+    "sex": "male",
+    "age": 39,
+    "ticket": "347082",
+    "fare": 31.275,
+    "cabin": "None"
+  },
+  {
+    "id": 15,
+    "name": "Vestrom, Miss. Hulda Amanda Adolfina",
+    "survived": false,
+    "sex": "female",
+    "age": 0,
+    "ticket": "350406",
+    "fare": 7.8542,
+    "cabin": "None"
+  }
+]
